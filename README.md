@@ -30,7 +30,7 @@ The repository is organized into three main modules to ensure a clear learning p
 ## 📈 Goals & Progress
 
 - [ ] Master basic to intermediate data structures.
-- [ ] Solve 100+ problems on Codeforces.
+- [ ] Solve 1500+ problems on Codeforces.
 - [ ] Maintain a clean and efficient code style.
 - [ ] Document core algorithmic logic in the Knowledge Base.
 
