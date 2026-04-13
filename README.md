@@ -5,9 +5,9 @@ A professional repository dedicated to algorithm practice, competitive programmi
 ---
 
 ### 🚀 Training Progress
-| Target | Progress | Percentage |
-| :--- | :--- | :--- |
-| 1000 Problems | ![](https://geps.dev/progress/20) | 20% |
+| Target | Progress |
+| :--- | :--- |
+| 1000 Problems | ![](https://geps.dev/progress/20) |
 
 ## 📂 Repository Structure
 
