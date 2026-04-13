@@ -9,12 +9,10 @@ A professional repository dedicated to algorithm practice, competitive programmi
 | :--- | :--- |
 | 1000 Problems | ![](https://geps.dev/progress/20) |
 
-![算法知识树](./assets/"D:\ACM ICPC CCPC 省程序设计大赛\suanfazhishidian.png")
+<img width="579" height="1305" alt="suanfazhishidian" src="https://github.com/user-attachments/assets/c2369bee-4047-4c39-8cb4-21ec041a7b8f" />
 
 
 ## 🌳 Algorithm Skill Tree (Roadmap)
-
-> **"Road to Master."** 这里的每一个复选框都是通往更高 Rating 的阶梯。点击 `README.md` 的编辑按钮，将 `[ ]` 改为 `[x]` 即可完成打卡。
 
 ---
 
