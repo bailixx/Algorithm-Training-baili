@@ -4,7 +4,7 @@ A professional repository dedicated to algorithm practice, competitive programmi
 
 ---
 
-### 🚀 Training Progress
+### 🚀 Training Progress(until 2026.07.07)
 | Target | Progress |
 | :--- | :--- |
 | 1000 Problems | ![](https://geps.dev/progress/20) |
