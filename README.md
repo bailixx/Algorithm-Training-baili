@@ -9,6 +9,8 @@ A professional repository dedicated to algorithm practice, competitive programmi
 | :--- | :--- |
 | 1000 Problems | ![](https://geps.dev/progress/20) |
 
+## 🚀 算法知识汇总
+
 ![算法知识树](./assets/suanfazhishidian.png)
 
 
