@@ -9,6 +9,13 @@ A professional repository dedicated to algorithm practice, competitive programmi
 | :--- | :--- |
 | 1000 Problems | ![](https://geps.dev/progress/20) |
 
+
+## 🗺️ Algorithm Skill Tree
+
+> 每一个节点都是通往更高 Rating 的阶梯。
+
+![Competitive Programming Roadmap](https://raw.githubusercontent.com/TheAlgorithms/Algorithms/master/docs/images/algorithm_tree.png)
+
 ## 📂 Repository Structure
 
 The repository is organized into three main modules to ensure a clear learning path and easy retrieval of solutions.
