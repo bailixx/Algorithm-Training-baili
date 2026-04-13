@@ -9,6 +9,8 @@ A professional repository dedicated to algorithm practice, competitive programmi
 | :--- | :--- |
 | 1000 Problems | ![](https://geps.dev/progress/20) |
 
+![算法知识树](./assets/"D:\ACM ICPC CCPC 省程序设计大赛\suanfazhishidian.png")
+
 
 ## 🌳 Algorithm Skill Tree (Roadmap)
 
