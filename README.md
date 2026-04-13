@@ -9,7 +9,6 @@ A professional repository dedicated to algorithm practice, competitive programmi
 | :--- | :--- |
 | 1000 Problems | ![](https://geps.dev/progress/20) |
 
-<img width="579" height="1305" alt="suanfazhishidian" src="https://github.com/user-attachments/assets/c2369bee-4047-4c39-8cb4-21ec041a7b8f" />
 
 
 ## 🌳 Algorithm Skill Tree (Roadmap)
