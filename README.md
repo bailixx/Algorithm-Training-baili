@@ -4,6 +4,11 @@ A professional repository dedicated to algorithm practice, competitive programmi
 
 ---
 
+### 🚀 Training Progress
+| Target | Progress | Percentage |
+| :--- | :--- | :--- |
+| 1000 Problems | ![](https://geps.dev/progress/200) | 20% |
+
 ## 📂 Repository Structure
 
 The repository is organized into three main modules to ensure a clear learning path and easy retrieval of solutions.
