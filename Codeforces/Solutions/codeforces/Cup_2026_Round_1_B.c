@@ -2,13 +2,13 @@
 #include <stdlib.h>
 
 int h(const void *p, const void *q)
-{ 
+{
     long long x = *(const long long *)p;
     long long y = *(const long long *)q;
 
     if (x < y) return 1;
     if (x > y) return -1;
-    
+
     return 0;
 }
 
@@ -26,9 +26,9 @@ void k()
     {
         long long v;
         scanf("%lld", &v);
-        
+
         s += v;
-        
+
         if (i % 2 != 0) b[d++] = v;
         else c[e++] = v;
     }
@@ -39,7 +39,6 @@ void k()
     {
         int x;
         scanf("%d", &x);
-
         if (x % 2 != 0) f++;
         else g++;
     }
@@ -48,12 +47,34 @@ void k()
     qsort(c, e, sizeof(long long), h);
 
     long long z = 0;
-
+    
     int u = (f < d) ? f : d;
-    for (int i = 0; i < u; i++) z += b[i];
+    for (int i = 0; i < u; i++)
+    {
+        if (i == 0)
+        {
+            z += b[i]; 
+        }
+
+        else if (b[i] > 0)
+        {
+            z += b[i]; 
+        }
+    }
 
     int w = (g < e) ? g : e;
-    for (int i = 0; i < w; i++) z += c[i];
+
+    for (int i = 0; i < w; i++)
+    {
+        if (i == 0)
+        {
+            z += c[i]; 
+        }
+        else if (c[i] > 0)
+        {
+            z += c[i]; 
+        }
+    }
 
     printf("%lld\n", s - z);
 
