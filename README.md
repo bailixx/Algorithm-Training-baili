@@ -7,7 +7,7 @@ A professional repository dedicated to algorithm practice, competitive programmi
 ### 🚀 Training Progress (until 2026.09.07)
 | Target | Progress |
 | :--- | :--- |
-| 2000 Problems | ![](https://geps.dev/progress/15.15) |
+| 2000 Problems | ![](https://geps.dev/progress/15.3) |
 
 ## 🚀 算法知识汇总
 
