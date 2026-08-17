@@ -6,7 +6,7 @@ void solve()
     int n, m;
     scanf("%d %d", &n, &m);
 
-    char x[200];
+    char x[2500];
     char s[50];
     scanf("%s", x);
     scanf("%s", s);
@@ -21,7 +21,7 @@ void solve()
             return;
         }
 
-        char temp[200];
+        char temp[2500];
         strcpy(temp, x);
         strcat(x, temp); 
 
