@@ -24,7 +24,7 @@ A professional repository dedicated to algorithm practice, competitive programmi
 - [x] **基础算法核心**
     - [x] 二分搜索 (Binary Search)
     - [x] 快速排序 / 归并排序 (Quick/Merge Sort)
-    - [ ] 双指针技巧 (Two Pointers)
+    - [x] 双指针技巧 (Two Pointers)
     - [ ] 前缀和与差分 (Prefix Sum & Difference)
 
 ---
